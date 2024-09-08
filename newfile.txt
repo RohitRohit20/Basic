@@ -1,1 +1,6 @@
-fkuyvluh vkuvljh
+what is git?
+What is Github?
+Why it is known as version control system?
+git init
+git status (File added or not)
+What is staging area? (for update status): 
